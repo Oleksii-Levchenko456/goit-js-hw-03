@@ -4,7 +4,7 @@ function makeArray(firstArray, secondArray, maxLength) {
         if (totalArray.length >= maxLength) {
         return finalArray = totalArray.slice(0, maxLength)
         } else {
-              return finalArray = totalArray.length
+              return finalArray = totalArray
             }
     
         
